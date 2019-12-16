@@ -1,0 +1,6 @@
+C:\Users\Dejan\source\repos\benzinskapumpa\bin\Debug\benzinskapumpa.exe.config
+C:\Users\Dejan\source\repos\benzinskapumpa\bin\Debug\benzinskapumpa.exe
+C:\Users\Dejan\source\repos\benzinskapumpa\bin\Debug\benzinskapumpa.pdb
+C:\Users\Dejan\source\repos\benzinskapumpa\obj\Debug\benzinskapumpa.csprojAssemblyReference.cache
+C:\Users\Dejan\source\repos\benzinskapumpa\obj\Debug\benzinskapumpa.exe
+C:\Users\Dejan\source\repos\benzinskapumpa\obj\Debug\benzinskapumpa.pdb
